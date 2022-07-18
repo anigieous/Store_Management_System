@@ -1,0 +1,12 @@
+.store-title{
+    font: inherit;
+    text-align: center;
+    font-weight: bold;
+    font-size:1.5cm;
+    margin-top: 0.3cm;
+    margin-bottom: 1cm;
+    margin-left: 7cm;
+    margin-right: 7cm;
+    color: rgb(158, 89, 223);
+    background-color: rgb(31, 31, 31);
+}

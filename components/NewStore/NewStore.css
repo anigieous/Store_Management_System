@@ -1,0 +1,38 @@
+.new-store {
+    background-color: #a892ee;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  }
+  
+  .new-store button {
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid #198bf5;
+    background-color: #1f6bfa;
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;
+  }
+  
+  .new-store button:hover,
+  .new-store button:active {
+    background-color: #0333b6;
+    border-color: #510674;
+  }
+  
+  .new-store button.alternative {
+    color: #220131;
+    border-color: transparent;
+    background-color: transparent;
+  }
+  
+  .new-store button.alternative:hover,
+  .new-store button.alternative:active {
+    background-color: #ddb3f8;
+  }
