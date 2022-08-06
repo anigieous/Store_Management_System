@@ -1,6 +1,4 @@
-# HomePage of the ScoreBoard Management System
-
-![homeScreen](https://user-images.githubusercontent.com/63515844/182887950-d3b43ea6-0626-4000-90ad-6d2434f82246.jpg)
+# HomePage of the Store Management System
 
 # How to run this app
 
