@@ -1,5 +1,3 @@
-# HomePage of the Store Management System
-
 # How to run this app
 
 download the zip file and extract it
